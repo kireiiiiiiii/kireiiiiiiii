@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rasix007
+- 👋 Hi, I’m Matěj
 - 😄 Pronouns: he/him
 - 📍 I'm from Czech republic 🇨🇿, but currently living in USA 🇺🇸
 - 🎂 I'm 17 and currently studying high school
