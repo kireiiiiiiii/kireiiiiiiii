@@ -1,3 +1,4 @@
+![banner](https://github.com/kireiiiiiiii/kireiiiiiiii/assets/138180141/40458196-dd2d-4e55-a150-f03524db90f1)
 ### ✨ ME CORE ✨
 - 👋 Hi, I’m Matěj
 - 😄 Pronouns: he/him
