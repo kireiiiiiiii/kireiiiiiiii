@@ -1,6 +1,6 @@
 <h2>✨ Hiii, I'm <em>Matěj Šťastný</em>! ✨</h2>
 
-<img align='right' src="./assets/portrait.png" width="250">
+<img align='right' src="./assets/sidebar.png" width="250">
 
 
 <p>
