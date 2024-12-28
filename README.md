@@ -3,10 +3,9 @@
 <img align='right' src="./assets/portrait.png" width="250">
 
 
-<p><em>
-  High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding in his free time!
-</em></p>
-
+<p>
+  High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding games and other things in my free time! I like to code in <code>Java</code>, but I also use game engines like <code>Gamemaker 2</code>, <code>Godot</code>, <code>Unreal Engine 5</code> or <code>Unity</code>. You can reach me throught my <a href="https://www.instagram.com/_kireiiiiiiii">Instagram DM's</a>!
+</p
 
 [![GitHub Kirei](https://img.shields.io/github/followers/kireiiiiiiii?label=follow&style=social)](https://github.com/kireiiiiiiii)
 [![Instagram Kirei](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badg&logo=instagram&logoColor=white)](https://www.instagram.com/_kireiiiiiiii)
@@ -14,7 +13,7 @@
 
 <p>&nbsp</p>
 
-### 💖💖 About me: 💖💖
+<h3 align="center"> 💖💖 About me: 💖💖 </h3>
 
 ```java
 import java.util.HashMap;
@@ -30,10 +29,14 @@ public class Kirei {
         Map<String, String> aboutMe = new HashMap<>();
 
         aboutMe.put("Name", "Matěj Šťastný");
-        aboutMe.put("Nationality", "Czech 🇨🇿");
-        aboutMe.put("Age", "17");
         aboutMe.put("Pronouns", "He/Him");
-        aboutMe.put("Tools", "Java, Bash, Godot, Gamemaker 2, Blender");
+        aboutMe.put("Age", "17");
+        aboutMe.put("Nationality", "Czech 🇨🇿");
+        aboutMe.put("City", "Seattle 🇺🇸");
+        aboutMe.put("OS", "MacOS");
+        aboutMe.put("Languages", "Java, Bash, GDS, GMS");
+        aboutMe.put("Tools", "VS Code, Alacritty, Godot, GM2");
+        aboutMe.put("Art", "Aseprite, Blender");
 
         return aboutMe;
     }
@@ -54,3 +57,4 @@ public class Kirei {
 }
 ```
 
+<img alt="footer" align='center' src="./assets/footer.png">
