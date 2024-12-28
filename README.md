@@ -1,6 +1,7 @@
 <h2>✨ Hiii, I'm <em>Matěj Šťastný</em>! ✨</h2>
 
-<img align='right' src="./assets/portait.png" width="250">
+<img align='right' src="./assets/portrait.png" width="250">
+
 
 <p><em>
   High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding in his free time!
@@ -52,3 +53,4 @@ public class Kirei {
 
 }
 ```
+
