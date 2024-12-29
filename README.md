@@ -1,6 +1,6 @@
 <h2>✨ Hiii, I'm <em>Matěj Šťastný</em>! ✨</h2>
 
-<img align='right' src="./assets/sidebar.png" width="250">
+<img align='right' src="./assets/sidebar.png" width="30%">
 
 <p>
   High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding games and other things in my free time! I like to code in <code>Java</code>, but I also use game engines like <code>Gamemaker 2</code>, <code>Godot</code>, <code>Unreal Engine 5</code> or <code>Unity</code>. You can reach me throught my <a href="https://www.instagram.com/_kireiiiiiiii">Instagram DM's</a>!
