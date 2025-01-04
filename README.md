@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/_kireiiiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badg&logo=instagram&logoColor=white" alt="Instagram Kirei">
   </a>
-  <a href="https://www.instagram.com/_kireiiiiiiii" target="_blank">
+  <a href="https://bsky.app/profile/kireiiiiiiii.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badg" alt="Bluesky Kirei">
   </a>
   <a href="https://www.youtube.com/@kireiiiiiiii" target="_blank">
