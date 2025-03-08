@@ -23,47 +23,31 @@
 
 <p>&nbsp</p>
 
-<h3 align="center"> 💖💖 About me: 💖💖 </h3>
+<h3 align="center"> ✨✨ Projects: ✨✨ </h3>
+
+<p>
+To see all my projects, check out the <a href="https://github.com/kireiiiiiiii/kireiiiiiiii/blob/main/PROJECTS.md">, where I show the progress of all of my projects, and their Github repository links!
+</p>
+
+<h3 align="center"> 🌸🌸 About me: 🌸🌸 </h3>
 
 ```java
-import java.util.HashMap;
-import java.util.Map;
-
 public class Kirei {
 
-    /**
-    * Returns the data collected about @kireiiiiiiii
-    *
-    */
-    private static Map<String, String> getData() {
-        Map<String, String> aboutMe = new HashMap<>();
-
-        aboutMe.put("Name", "Matěj Šťastný");
-        aboutMe.put("Pronouns", "He/Him");
-        aboutMe.put("Age", "17");
-        aboutMe.put("Nationality", "Czech 🇨🇿");
-        aboutMe.put("City", "Seattle 🇺🇸");
-        aboutMe.put("OS", "MacOS");
-        aboutMe.put("Languages", "Java, Bash, GDS, GMS");
-        aboutMe.put("Tools", "VS Code, Alacritty, Godot, GM2");
-        aboutMe.put("Art", "Aseprite, Blender");
-
-        return aboutMe;
-    }
-
-    /**
-    * Main
-    */
     public static void main(String[] args) {
-        Map<String, String> aboutMe = getData();
+        DeveloperProfile kirei = new DeveloperProfile.Builder("Matěj Šťastný")
+            .pronouns("He/Him")
+            .age(17)
+            .nationality("Czech 🇨🇿")
+            .city("Seattle 🇺🇸")
+            .os(OS.MACOS)
+            .languages("Java", "Bash", "GDS", "GMS")
+            .tools("VS Code", "Alacritty", "Godot", "GM2")
+            .artTools("Aseprite", "Blender")
+            .build();
 
-        for (Map.Entry<String, String> entry : aboutMe.entrySet()) {
-            System.out.println(entry.getKey() + ": " + entry.getValue());
-        }
-
-        System.out.println(":3");
+        kirei.printProfile();
     }
-
 }
 ```
 
