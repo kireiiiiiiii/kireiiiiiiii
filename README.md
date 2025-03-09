@@ -17,9 +17,12 @@
 ```
 
 ```
-[░░░░░░░░░░░------]  Flaggi          - In Progress
-[░░░░░░░░░░░░░░░░░]  Shooting Stars  - Finished
-[░░░░░░░░░░░░░░░░░]  Pokemon         - Finished
+    > Projects <
+
+    [░░░░░░░░░░░------]  Flaggi          - In Progress
+    [░░░░░░░░░░░░░░░░░]  Shooting Stars  - Finished
+    [░░░░░░░░░░░░░░░░░]  Pokemon         - Finished
+
 ```
 
 _For a full list of projects, check out the [Projects Page](https://github.com/kireiiiiiiii/kireiiiiiiii/blob/main/PROJECTS.md)._
