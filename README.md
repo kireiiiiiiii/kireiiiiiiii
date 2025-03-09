@@ -21,9 +21,10 @@
 
     > Projects <
 
-    [░░░░░░░░░░░------]  Flaggi          - In Progress
-    [░░░░░░░░░░░░░░░░░]  Shooting Stars  - Finished
-    [░░░░░░░░░░░░░░░░░]  Pokemon         - Finished
+    [░░░░░░░░░░░------]  Flaggi            - In Progress
+    [░░░░-------------]  Whatsapp Wrapped  - In Progress
+    [░░░░░░░░░░░░░░░░░]  Shooting Stars    - Finished
+    [░░░░░░░░░░░░░░░░░]  Pokemon           - Finished
 
 ```
 
