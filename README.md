@@ -1,5 +1,6 @@
-```
+<div style="width: 40%; margin: auto; text-align: center;">
 
+```
     ██╗  ██╗██╗██████╗ ███████╗██╗
     ██║ ██╔╝██║██╔══██╗██╔════╝██║
     █████╔╝ ██║██████╔╝█████╗  ██║
@@ -13,8 +14,9 @@
     > Aseprite, Blender
     > Redmond High School student
     > Making games and other things
-
 ```
+
+</div>
 
 ### ⚙️ Projects
 
