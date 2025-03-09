@@ -2,8 +2,8 @@
 
 <img align='right' src="./assets/sidebar.png" width="30%">
 
-<p>
-  High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding games and other things in my free time! I like to code in <code>Java</code>, but I also use game engines like <code>Gamemaker 2</code>, <code>Godot</code>, <code>Unreal Engine 5</code> or <code>Unity</code>. You can reach me throught my <a href="https://www.instagram.com/_kireiiiiiiii">Instagram DM's</a>!
+<p align="center">
+  High school student at <a href="https://rhs.lwsd.org/">Redmond High School</a> coding games and other things in my free time! I like to code in <code>Java</code>, but I also use game engines like <code>Gamemaker 2</code>, <code>Godot</code>, <code>UE5</code> or <code>Unity</code>. You can reach me throught my <a href="https://www.instagram.com/_kireiiiiiiii">Instagram DM's</a>!
 </p>
 
 <p align="center">
@@ -22,14 +22,16 @@
 </p>
 
 <p>&nbsp</p>
-
 <h3 align="center"> ✨✨ Projects: ✨✨ </h3>
+<p>&nbsp</p>
 
-<p>
-To see all my projects, check out the <a href="https://github.com/kireiiiiiiii/kireiiiiiiii/blob/main/PROJECTS.md">, where I show the progress of all of my projects, and their Github repository links!
+<p align="center">
+To see all my projects, check out the <a href="https://github.com/kireiiiiiiii/kireiiiiiiii/blob/main/PROJECTS.md">PROJECTS</a> tab, where I show the progress of all of my projects, and their Github repository links!
 </p>
 
+<p>&nbsp</p>
 <h3 align="center"> 🌸🌸 About me: 🌸🌸 </h3>
+<p>&nbsp</p>
 
 ```java
 public class Kirei {
@@ -50,5 +52,10 @@ public class Kirei {
     }
 }
 ```
+<p>&nbsp</p>
+<h3 align="center"> 💫💫 My Stats: 💫💫 </h3>
+<p>&nbsp</p>
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=kireiiiiiiii&show_icons=true&theme=tokyonight" width="68%">
 
 <img alt="footer" align='center' src="./assets/footer.png">
